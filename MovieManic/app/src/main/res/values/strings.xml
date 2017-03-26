@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Manic</string>
+    <string name="pop_mov">Most Popular</string>
+    <string name="top_rat">Highest Rated</string>
+    <string name="no_net">No Internet</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+</resources>
